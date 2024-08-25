@@ -39,8 +39,10 @@ quit
 
 ![image](https://github.com/user-attachments/assets/a3791128-6989-4603-87ce-ed6a57cbd0bc)
 
+
+
 ![image](https://github.com/user-attachments/assets/32d72acf-0920-4ebb-9927-af2c1c80e4a2)
-![Uploading image.png…]()
+
 
 
 Dans l’exemple suivant, l’adresse IP du VLAN 1 est remplacée par 172.31.255.71 avec un masque de sous-réseau 255.255.255.0.
