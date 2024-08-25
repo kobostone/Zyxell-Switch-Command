@@ -1,5 +1,11 @@
 # Zyxell-Switch-Command
 
+![image](https://github.com/user-attachments/assets/b50ef10b-7a9f-4df9-82fe-fdc53e4cf5b3)
+
+
+![image](https://github.com/user-attachments/assets/75c74d46-6004-48b9-8f4f-3a8eb8936875)
+
+
 ### enable clv mode   
 
 GS2210#config    
@@ -33,6 +39,7 @@ quit
 
 ![image](https://github.com/user-attachments/assets/a3791128-6989-4603-87ce-ed6a57cbd0bc)
 
+![Uploading image.png…]()
 
 
 Dans l’exemple suivant, l’adresse IP du VLAN 1 est remplacée par 172.31.255.71 avec un masque de sous-réseau 255.255.255.0.
