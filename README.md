@@ -1,8 +1,13 @@
 # Zyxell-Switch-Command
 
-enable clv mode   
+### enable clv mode   
+
 GS2210#config
-GS2210(config)# clv
+GS2210(config)# clv  
+
+![image](https://github.com/user-attachments/assets/47f9f75b-ad25-4590-811e-a8c55d51f29a)
+
+
 
 (config)# interface port-channel 1,2,3       
 GS2210#config
