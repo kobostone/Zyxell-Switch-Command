@@ -8,6 +8,12 @@ GS2210(config)# clv
 
 ### Configuration des VLAN 
 
+![image](https://github.com/user-attachments/assets/8ab875ac-1797-42b7-9948-d039578a92b0)
+
+![image](https://github.com/user-attachments/assets/9b12ea4b-944b-453d-90da-dfbc17e5e828)
+
+
+
 ![image](https://github.com/user-attachments/assets/47f9f75b-ad25-4590-811e-a8c55d51f29a)
 
 
