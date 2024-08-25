@@ -10,7 +10,6 @@ GS2210(config)# clv
 
 ![image](https://github.com/user-attachments/assets/8ab875ac-1797-42b7-9948-d039578a92b0)
 
-![image](https://github.com/user-attachments/assets/9b12ea4b-944b-453d-90da-dfbc17e5e828)
 
 ![image](https://github.com/user-attachments/assets/ba4e2bc9-fb18-46f6-a89d-f52913ca09b1)
 
