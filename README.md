@@ -5,6 +5,8 @@
 GS2210#config    
 GS2210(config)# clv  
 
+![image](https://github.com/user-attachments/assets/75583426-6069-4d71-a2af-9926b0c28123)
+
 
 ### Configuration des VLAN 
 
