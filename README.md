@@ -10,11 +10,12 @@ GS2210(config)# clv
 
 
 (config)# interface port-channel 1,2,3           
-(config-interface)# switchport mode trunk
+(config-interface)# switchport mode access
 
 ![image](https://github.com/user-attachments/assets/97ce2ec8-1251-4b56-8fba-8f8d4138257e)
 
-
+(config)# interface port-channel 1,2,3
+(config-interface)# switchport mode trunk
 
 Dans l’exemple suivant, l’adresse IP du VLAN 1 est remplacée par 172.31.255.71 avec un masque de sous-réseau 255.255.255.0.
 
