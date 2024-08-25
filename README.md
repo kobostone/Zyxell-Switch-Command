@@ -14,7 +14,8 @@ GS2210(config)# clv
 (config-interface)# switchport access vlan 55    
 quit
 
-![image](https://github.com/user-attachments/assets/97ce2ec8-1251-4b56-8fba-8f8d4138257e)
+![image](https://github.com/user-attachments/assets/67086aeb-e03f-4f16-8943-b163cfad14bc)
+
 
 (config)# interface port-channel 1,2,3
 (config-interface)# switchport mode trunk
